@@ -1,7 +1,7 @@
 import streamlit as st
 from diagnosis_data import get_diagnosis
 from doctor import get_nearest_clinic
-from utils.speech_utils import recognize_speech
+#from utils.speech_utils import recognize_speech
 from streamlit_js_eval import get_geolocation
 
 import pandas as pd
